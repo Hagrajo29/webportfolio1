@@ -1,0 +1,160 @@
+
+
+
+
+
+body{
+	background-color: beige;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+#intro1{
+	font-family: 'Rampart One', cursive;
+	color: darkviolet;
+	font-weight: bold;
+	font-size: 3rem;
+}
+
+#intro2{
+	font-family: 'Rampart One', cursive;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+
+#intro3{
+	font-weight: bold;
+	font-size: 1.2rem;
+	font-family: 'Kaushan Script', cursive;
+	color: mediumvioletred;
+}
+
+#icon1{
+	font-size: 2rem;
+	color: pink;
+}
+
+
+#simple-nav{
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+#navbg{
+	background-color: mediumpurple;
+}
+
+
+
+#banner2{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/001/372/961/large_2x/abstract-geometric-purple-pink-yellow-background-free-vector.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#about{
+	font-family: 'Rampart One', cursive;
+	font-weight: bold;
+	font-size: 2.5rem;
+
+}
+
+
+#cdpt{
+	font-weight: bold;
+	font-size: 1.5rem;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+
+}
+
+#aboutmebg{
+	background-image: url(https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-position: center;
+}
+
+#icon2{
+	font-size: 2rem;
+	color: maroon;
+
+}
+
+
+#proj1{
+	background-color: mediumpurple;
+}
+#btn1{
+	font-size: 1rem;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+#proj2{
+	background-color: skyblue;
+}
+#btn2{
+	font-size: 1rem;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+#proj3{
+	background-color: lightpink;
+}
+#btn3{
+	font-size: 1rem;
+	font-family: 'Rubik', sans-serif;
+}
+
+#projects{
+	background-image: url(https://images.pexels.com/photos/3607031/pexels-photo-3607031.jpeg?cs=srgb&dl=pexels-jill-wellington-3607031.jpg&fm=jpg);
+}
+
+#pjname{
+	font-family: 'Rampart One', cursive;
+	font-weight: bold;
+	font-size: 2.5rem;
+	color: darkolivegreen;
+}
+
+#carousel-item{
+	height: fit-content;
+	width: fit-content;
+}
+
+
+#toolsname{
+	font-family: 'Rampart One', cursive;
+	font-weight: bold;
+	font-size: 2.5rem;
+	color: maroon;
+}
+
+#contactbg{
+	background-image: url(https://images.pexels.com/photos/1037993/pexels-photo-1037993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-size: cover;
+}
+
+#connect{
+	font-family: 'Rampart One', cursive;
+	font-weight: bold;
+	font-size: 2.5rem;
+	color: midnightblue;
+}
+
+
+
+
+
+
+
+
+
+footer{
+	background-color: mediumpurple;
+	font-size: 1.2rem;
+	color: navajowhite;
+}
