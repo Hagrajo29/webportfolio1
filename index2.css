@@ -1,11 +1,30 @@
 
-
-
-
-
 body{
 	background-color: beige;
 	font-family: 'Rubik', sans-serif;
+}
+
+
+#navbg{
+	background-color: mediumpurple;
+}
+
+
+#icon1{
+	font-size: 1.5rem;
+	color: pink;
+}
+
+#simple-nav{
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+#banner2{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/001/372/961/large_2x/abstract-geometric-purple-pink-yellow-background-free-vector.jpg);
+	background-size: cover;
+	background-position: center;
 }
 
 
@@ -16,12 +35,20 @@ body{
 	font-size: 3rem;
 }
 
+
 #intro2{
 	font-family: 'Rampart One', cursive;
 	font-weight: bold;
 	font-size: 1.5rem;
 }
 
+
+
+#icon2{
+	font-size: 2rem;
+	color: maroon;
+
+}
 
 #intro3{
 	font-weight: bold;
@@ -30,30 +57,12 @@ body{
 	color: mediumvioletred;
 }
 
-#icon1{
-	font-size: 2rem;
-	color: pink;
-}
 
 
-#simple-nav{
-	font-family: 'Dancing Script', cursive;
-	font-size: 1.2rem;
-	font-weight: bold;
-}
-
-#navbg{
-	background-color: mediumpurple;
-}
-
-
-
-#banner2{
-	background-image: url(https://static.vecteezy.com/system/resources/previews/001/372/961/large_2x/abstract-geometric-purple-pink-yellow-background-free-vector.jpg);
-	background-size: cover;
+#aboutmebg{
+	background-image: url(https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 	background-position: center;
 }
-
 
 
 #about{
@@ -70,18 +79,6 @@ body{
 	font-family: 'Tenali Ramakrishna', sans-serif;
 
 }
-
-#aboutmebg{
-	background-image: url(https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-	background-position: center;
-}
-
-#icon2{
-	font-size: 2rem;
-	color: maroon;
-
-}
-
 
 #proj1{
 	background-color: mediumpurple;
@@ -125,13 +122,13 @@ body{
 	width: fit-content;
 }
 
-
 #toolsname{
 	font-family: 'Rampart One', cursive;
 	font-weight: bold;
 	font-size: 2.5rem;
 	color: maroon;
 }
+
 
 #contactbg{
 	background-image: url(https://images.pexels.com/photos/1037993/pexels-photo-1037993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
@@ -144,14 +141,6 @@ body{
 	font-size: 2.5rem;
 	color: midnightblue;
 }
-
-
-
-
-
-
-
-
 
 footer{
 	background-color: mediumpurple;
